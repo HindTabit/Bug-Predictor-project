@@ -1,0 +1,30 @@
+echo "# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Modèles et données lourdes
+app/best_model.pkl
+app/scaler.pkl
+app/feature_columns.pkl
+app/processed_defects.parquet
+app/*.pkl
+app/*.parquet
+
+# Datasets
+data/*.csv
+UnifiedBugDataset-1.2/
+*.zip
+
+# Streamlit cache
+.streamlit/
+
+# VS Code
+.vscode/
+.idea/" > .gitignore
