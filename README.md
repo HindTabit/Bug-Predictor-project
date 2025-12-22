@@ -17,7 +17,7 @@ Modèle entraîné sur des métriques OO et procédurales (LOC, complexité cycl
 ## Démo en ligne
 
 Une version en ligne est disponible ici :  
-🔗 [https://ton-app-streamlit.streamlit.app](https://ton-app-streamlit.streamlit.app](https://hindtabit-bug-predictor-project-appweb-sm02zq.streamlit.app))  
+🔗 [[https://ton-app-streamlit.streamlit.app](https://ton-app-streamlit.streamlit.app](https://hindtabit-bug-predictor-project-appweb-sm02zq.streamlit.app))](https://hindtabit-bug-predictor-project-appweb-sm02zq.streamlit.app)  
 
 ## Installation locale
 
